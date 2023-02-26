@@ -1,0 +1,20 @@
+# output executable files
+*
+!/**/
+!*.*
+
+# System files
+.DS_Store
+**/.DS_Store
+
+# vscode settings
+.vscode/
+**/.vscode/
+
+# output executable files
+**/*.o
+**/*.out
+*.exe
+*.out
+*.app
+

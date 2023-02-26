@@ -1,0 +1,77 @@
+Available Physical Memory: 2900496384
+Available Page File: 8546598912
+Available Virtual Memory: 140733140459520
+=========================================
+Cache Size: 0.5*M
+Available Physical Memory: 2900627456
+Available Page File: 7848255488
+Available Virtual Memory: 140732443197440
+Time elapsed: 1.122 seconds
+=========================================
+Cache Size: 0.6*M
+Available Physical Memory: 2989805568
+Available Page File: 7709405184
+Available Virtual Memory: 140732303749120
+Time elapsed: 1.212 seconds
+=========================================
+Cache Size: 0.7*M
+Available Physical Memory: 2989035520
+Available Page File: 7576084480
+Available Virtual Memory: 140732164292608
+Time elapsed: 1.412 seconds
+=========================================
+Cache Size: 0.8*M
+Available Physical Memory: 2985164800
+Available Page File: 7431737344
+Available Virtual Memory: 140732024832000
+Time elapsed: 1.563 seconds
+=========================================
+Cache Size: 0.9*M
+Available Physical Memory: 2978185216
+Available Page File: 7287877632
+Available Virtual Memory: 140731885371392
+Time elapsed: 1.876 seconds
+=========================================
+Cache Size: 0.95*M
+Available Physical Memory: 3015122944
+Available Page File: 7302340608
+Available Virtual Memory: 140731815673856
+Time elapsed: 1.871 seconds
+=========================================
+Cache Size: 0.99*M
+Available Physical Memory: 3015098368
+Available Page File: 7246868480
+Available Virtual Memory: 140731759869952
+Time elapsed: 1.997 seconds
+=========================================
+Cache Size: 1*M
+Available Physical Memory: 3029811200
+Available Page File: 7236616192
+Available Virtual Memory: 140731745964032
+Time elapsed: 1.998 seconds
+=========================================
+Cache Size: 1.01*M
+Available Physical Memory: 3025809408
+Available Page File: 7218384896
+Available Virtual Memory: 140731731984384
+Time elapsed: 1.992 seconds
+=========================================
+Cache Size: 1.1*M
+Available Physical Memory: 3025592320
+Available Page File: 7096803328
+Available Virtual Memory: 140731606487040
+Time elapsed: 2.111 seconds
+=========================================
+Cache Size: 1.5*M
+Available Physical Memory: 3027271680
+Available Page File: 6538657792
+Available Virtual Memory: 140731048726528
+Time elapsed: 3.126 seconds
+=========================================
+Cache Size: 2*M
+terminate called after throwing an instance of 'std::bad_alloc'
+  what():  std::bad_alloc
+
+--------------------------------
+Process exited after 25.85 seconds with return value 3
+Press any key to continue . . .
